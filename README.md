@@ -1,3 +1,3 @@
 # DevOps
-Learning Devops 
-Leaning about git and github for devops.
+Learning Devops.
+Further Leaning about git and github for devops.
